@@ -4,3 +4,12 @@ updates:
     directory: /
     schedule:
       interval: weekly
+  - package-ecosystem: npm
+    directories:
+      - "/react-samples"
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    groups:
+      learning-dependencies:
+        patterns: ["*"]

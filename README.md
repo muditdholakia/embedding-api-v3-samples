@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original source: [tableau/embedding-api-v3-samples](https://github.com/tableau/embedding-api-v3-samples). See [curation purpose and setup](CURATOR_README.md) and [security guidance](CURATOR_SECURITY.md). Upstream authorship and license are retained.
+
 # embedding-api-v3-samples
 [![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
 
@@ -26,4 +28,4 @@ Demo | Source Code | Description
 [Get Logical Data](http://tableau.github.io/embedding-api-v3-samples/getDataTableReader.html) | [getDataTableReader.html](getDataTableReader.html) |  Get the logical data for the currently displayed viz using the DataTableReader.
 [Resize](http://tableau.github.io/embedding-api-v3-samples/resize.html) | [resize.html](resize.html) | Resize a visualization to a size that you specify. 
 [Respond to Events](http://tableau.github.io/embedding-api-v3-samples/respondToEvents.html) | [respondToEvents.html](respondToEvents.html) | Display information about marks as you select them. For more information about responding to events, see [Add Event Listeners](https://help.tableau.com/current/api/embedding_api/en-us/docs/embedding_api_event.html).
-[Select Marks](http://tableau.github.io/embedding-api-v3-samples/selectMarks.html) | [selectMarks.html](selectMarks.html) | Select a set of marks in a visualization. 
+[Select Marks](http://tableau.github.io/embedding-api-v3-samples/selectMarks.html) | [selectMarks.html](selectMarks.html) | Select a set of marks in a visualization.
