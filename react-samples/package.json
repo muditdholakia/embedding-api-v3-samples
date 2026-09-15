@@ -13,7 +13,7 @@
     "@tableau/embedding-api-react": "~3.14.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router": "^7.1.1"
+    "react-router": "^7.18.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
